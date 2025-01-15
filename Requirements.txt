@@ -1,0 +1,17 @@
+# Hyperledger Fabric SDK for developing smart contracts
+@hyperledger/fabric-contract-api
+@hyperledger/fabric-shim
+
+# TypeScript support and related tools
+typescript
+ts-node
+
+# Code quality and formatting tools
+eslint
+eslint-config-prettier
+eslint-plugin-prettier
+prettier
+
+# Testing frameworks
+jest
+ts-jest

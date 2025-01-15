@@ -1,0 +1,1 @@
+// This is a generated file: insuranceController.test.ts
